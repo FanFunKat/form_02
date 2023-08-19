@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    background-color: rgb(8, 8, 70);
+    width: 200px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 12px;
+    display: inline-block;
+}
